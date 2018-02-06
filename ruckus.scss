@@ -1,0 +1,53 @@
+/*
+
+    Author: Ruckusist | ruckusist@alphagriffin.com
+    started: 2-6-18
+    reference: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_coming_soon&stacked=h
+
+*/
+body, h1 {
+    font-family: "Raleway", sans-serif;
+    color: 'w3-blue-grey'
+}
+body, html {
+    height: 100%
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.footer-left {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+
+.footer-right {
+    width: 75%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+
+.bgimg {
+    background-image: url('img/rainier.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.myimg {
+    background-image: url('img/logo.png');
+    background-repeat: no-repeat;
+    min-height: 100%;
+    background-position: center;
+    background-size: contain;
+    font-size: 8px;
+}
+.major{
+    text-decoration:none;
+}
+.major:hover{
+    font-size:105%;
+}
