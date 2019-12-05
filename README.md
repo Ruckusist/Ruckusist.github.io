@@ -2,5 +2,6 @@
 My Personal Site.
 
 ```
-    http://ruckusist.github.io
+    https://ruckusist.github.io
+    https://ruckusist.com
 ```
