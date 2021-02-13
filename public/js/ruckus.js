@@ -1,1 +1,3 @@
-console.log("this is working")
+function textcolor() {
+    document.getElementById("demo").style.color = "red";
+}
